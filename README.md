@@ -18,6 +18,13 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年6月30号添加
+#### Honwhy Wang - [Github](https://github.com/honwhy/md)
+* :white_check_mark: [mpmd](https://mpmd.pages.dev)：利用 Markdown 编辑微信公众号文章的浏览器插件，轻松创作引人入胜的微信公众号图文内容。该插件集成了功能强大的 Markdown 编辑器和主流图片托管平台，并支持使用官方微信公众号图片托管服务，让您免费存储图片，助您高效创作图文内容
+
+#### wtechtec(北京) - [Github](https://github.com/WtecHtec), [博客](https://blog.csdn.net/weixin_42429220?type=blog) 
+* 🕗: [CraftRecord](https://github.com/WtecHtec/electron-react-record)：鼠标跟随录制软件 - [更多介绍](https://www.bilibili.com/video/BV13ugsegEnk/?spm_id_from=333.999.0.0&vd_source=d5b28d31bf0713b1e64a887d37daeb4a)
+
 ### 2024年6月28号添加
 #### biboom(广州)
 * :white_check_mark: [三点划线](https://chromewebstore.google.com/detail/%E4%B8%89%E7%82%B9%E5%88%92%E7%BA%BF/enindkdbeijhhoeedocjehpflljhhoho)：(Chrome 插件) 边阅读边划线、记录想法，不间断地捕捉灵感
